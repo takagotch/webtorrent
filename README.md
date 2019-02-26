@@ -2,6 +2,8 @@
 ---
 https://github.com/webtorrent/webtorrent
 
+https://webtorrent.io/intro
+
 ```
 npm install webtorrent
 npm install webtorrent-cli -g
